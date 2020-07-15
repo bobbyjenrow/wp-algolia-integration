@@ -1,0 +1,12 @@
+{
+    "name": "bobbyjenrow/ch-algolia",
+    "authors": [
+        {
+            "name": "Bobby Jenrow",
+            "email": "bobbyjenrow@cobblehilldigital.com"
+        }
+    ],
+    "require": {
+        "algolia/algoliasearch-client-php": "^2.3"
+    }
+}
